@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prince\\Desktop\\Work\\URLShortner\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7DAE86-67B2-4DD8-AF1B-4A0489D7B17C}|Api\\Api.csproj|c:\\users\\prince\\desktop\\work\\urlshortner\\solution1\\api\\controllers\\shorturlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7DAE86-67B2-4DD8-AF1B-4A0489D7B17C}|Api\\Api.csproj|solutionrelative:api\\controllers\\shorturlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7DAE86-67B2-4DD8-AF1B-4A0489D7B17C}|Api\\Api.csproj|c:\\users\\prince\\desktop\\work\\urlshortner\\solution1\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7DAE86-67B2-4DD8-AF1B-4A0489D7B17C}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7DAE86-67B2-4DD8-AF1B-4A0489D7B17C}|Api\\Api.csproj|c:\\users\\prince\\desktop\\work\\urlshortner\\solution1\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E7DAE86-67B2-4DD8-AF1B-4A0489D7B17C}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShortUrlController.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\Work\\URLShortner\\Solution1\\Api\\Controllers\\ShortUrlController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ShortUrlController.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\Work\\URLShortner\\Solution1\\Api\\Controllers\\ShortUrlController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ShortUrlController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:17:09.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\Work\\URLShortner\\Solution1\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\Work\\URLShortner\\Solution1\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:15:52.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\Work\\URLShortner\\Solution1\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\Work\\URLShortner\\Solution1\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T23:14:37.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
